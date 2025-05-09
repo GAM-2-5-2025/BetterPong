@@ -13,26 +13,10 @@ Cilj igre je stvoriti što više kaosa u razredu tako da razljutite učitelje i 
 ## Značajke
 
 - **Različiti likovi**: Svaki učenik u razredu ima svoje "mjere živaca" koje se prikazuju kao HP bar.
-- **Spačke i nestašluci**: Prskanje vodom, bacanje gumica, sakrivanje stvari, bacanje stolica i klupa.
-- **Reakcije likova**: Kada učenici dostignu 25%, 50%, 75% i 100% svoje mjere živaca, počinju se ponašati agresivno prema učitelju, vikati, ili psovati.
-- **Profesorica**: Profesorica ima vlastitu mjeru živaca koja se povećava kad učenici počnu psovati i vikati. Ako njezin bar dosegne kritičnu točku, ona napušta učionicu govoreći: "Nisam dovoljno plaćena za ovo!"
-- **Interaktivna okolina**: Igra se odvija unutar razreda s raznim interaktivnim objektima (stolice, klupe, torbe) koji se mogu koristiti za stvaranje kaosa.
-
-## Upute za igranje
-
-1. **Kretanje**: Koristi tipke **WASD** za pomicanje svog lika unutar učionice.
-2. **Akcije**: 
-    - **Prskanje vodom**: Tipka **F**
-    - **Deranje i okrivljavanje drugog učenika**: Tipka **H**
-    - **Gađanje gumicama**: Tipka **J**
-    - **Skrivanje ruksaka**: Tipka **K**
-    - **Bacanje stolica/klupa**: Tipka **L**
-    - **Bacanje predmeta van kroz prozor**: Tipka **P**
-3. **Mjerilo živaca učenika**: Svaki učenik ima HP bar koji pokazuje koliko su iznervirani. Ako učenici dođu do određenih pragova, počinju se ponašati agresivno.
-4. **Profesorica**: Igrajte tako da iznervirate sve učenike i učiteljicu dovoljno da ona napusti učionicu.
+- **Spačke i nestašluci**: Prskanje vodom, lupanje i guranje, bacanje gumica, sakrivanje stvari, bacanje stolica i klupa.
+- **Reakcije likova**: Kada učenici dostignu 25%, 50%, 75% svoje mjere živaca, počinju se ponašati agresivno prema učitelju, vikati, ili psovati. Ako te učenici uhvate da ih zafrkavaš, tuže te profesorici. Nakon tri tužbe, profesorica te izbaci iz razreda i gubiš. Kada dostigne 100% učenik će napustiti učionicu bijesan.
+- **Profesorica**: Profesorica ima vlastitu mjeru živaca koja se povećava kad učenici počnu psovati i vikati. Profesorica gleda po razredu kako bi uhvatila učenike koji stvaraju kaos. Drugi put kada te uhvati, izbačen si iz učionice i gubiš. Ako njezino mjerilo dosegne kritičnu točku, ona napušta učionicu govoreći: "Nisam dovoljno plaćena za ovo!" 
+- **Interaktivna okolina**: Igra se odvija unutar razreda s raznim interaktivnim objektima (stolice, klupe, torbe, pernice, gumice, boce) koji se mogu koristiti za stvaranje kaosa.
 
 ## Instalacija
 
-1. Preuzmite ili klonirajte repozitorij.
-   ```bash
-   git clone https://github.com/yourusername/gimnazija-2d-igra.git
