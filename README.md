@@ -1,8 +1,8 @@
-# TrubleMaker - 2D Igra
+# TroubleMaker - 2D Igra
 
 ## Opis
 
-**Gimnazija Andrije Mohorovičića Rijeka** je humoristična 2D igra smještena unutar razreda srednje škole, gdje igrač preuzima kontrolu nad svojim likom i ima cilj iživcirati ostale učenike u razredu kroz razne "spačke" i nestašluke. Igra nudi različite metode kako bi uzrujali učitelje i kolege, uključujući prskanje vodom, deranje, bacanje gumica, sakrivanje tuđih stvari, bacanje stolica i klupa, pa čak i bacanje predmeta van prozora.
+**TroubleMaker** je humoristična 2D igra smještena unutar razreda srednje škole, gdje igrač preuzima kontrolu nad svojim likom i ima cilj iživcirati ostale učenike u razredu kroz razne spačke i nestašluke. Igra nudi različite metode kako bi uzrujali učitelje i kolege, uključujući prskanje vodom, deranje, bacanje gumica, sakrivanje tuđih stvari, bacanje stolica i klupa, pa čak i bacanje predmeta van prozora.
 
 Svaki učenik ima "mjeru živaca" koje se prikazuju kao HP bar, a kada dosegnu određene pragove, učenici vrše reakcije poput vikanja ili psovanja, što dalje utječe na profesoricu koja također ima svoju "mjeru živaca". Ako uspiješ dovoljno iznervirati profesoricu, ona će na kraju napustiti nastavu govoreći da "nije dovoljno plaćena za ovaj posao".
 
