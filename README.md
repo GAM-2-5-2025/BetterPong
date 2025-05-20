@@ -15,8 +15,17 @@ Cilj igre je stvoriti što više kaosa u razredu tako da razljutite učitelje i 
 - **Različiti likovi**: Svaki učenik u razredu ima svoje "mjere živaca" koje se prikazuju kao HP bar.
 - **Spačke i nestašluci**: Prskanje vodom, lupanje i guranje, bacanje gumica, sakrivanje stvari, bacanje stolica i klupa.
 - **Reakcije likova**: Kada učenici dostignu 25%, 50%, 75% svoje mjere živaca, počinju se ponašati agresivno prema učitelju, vikati, ili psovati. Ako te učenici uhvate da ih zafrkavaš, tuže te profesorici. Nakon tri tužbe, profesorica te izbaci iz razreda i gubiš. Kada dostigne 100% učenik će napustiti učionicu bijesan.
-- **Profesorica**: Profesorica ima vlastitu mjeru živaca koja se povećava kad učenici počnu psovati i vikati. Profesorica gleda po razredu kako bi uhvatila učenike koji stvaraju kaos. Drugi put kada te uhvati, izbačen si iz učionice i gubiš. Ako njezino mjerilo dosegne kritičnu točku, ona napušta učionicu govoreći: "Nisam dovoljno plaćena za ovo!" 
+- **Profesorica**: Profesorica ima vlastitu mjeru živaca koja se povećava kad učenici počnu psovati i vikati. Profesorica gleda po razredu kako bi uhvatila učenike koji stvaraju kaos. Kada te uhvati, izdere se na tebe i kaže ti: "Ovo ti je zadnje upozorenje!" Drugi put kada te uhvati, izbačen si iz učionice i gubiš. Ako njezino mjerilo dosegne kritičnu točku, ona napušta učionicu govoreći: "Nisam dovoljno plaćena za ovo!" 
 - **Interaktivna okolina**: Igra se odvija unutar razreda s raznim interaktivnim objektima (stolice, klupe, torbe, pernice, gumice, boce) koji se mogu koristiti za stvaranje kaosa.
 
+## Kontrole
+- **WASD** - Kretanje
+- 
+
 ## Instalacija
+**Preduvjeti**: Prije instalacije, osiguraj da imaš instaliran Python (verzija 3.8 ili novija) i pip. Također ćeš trebati biblioteku za rad s 2D igrama.
+**Kloniraj repozitorij**: Ako projekt postoji na GitHubu ili drugom repozitoriju. (git clone https://github.com/ime_korisnika/trublemaker.git
+cd trublemaker)
+**Pokreni igru**: python main.py
+
 
