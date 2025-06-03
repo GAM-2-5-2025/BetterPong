@@ -7,7 +7,7 @@
 
 ## Cilj igre
 
-Cilj igre je uništiti sve cigle prije nego što izgubiš sva tri života
+Cilj igre je uništiti sve cigle prije nego što izgubiš sva tri života.
 
 
 ## Kontrole
