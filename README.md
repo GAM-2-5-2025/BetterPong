@@ -1,4 +1,4 @@
-# TikTok Pong Game - 2D Igra
+# Better Pong! - 2D Igra
 
 ## Opis
 
