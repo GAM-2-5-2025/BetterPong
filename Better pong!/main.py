@@ -639,22 +639,22 @@ while True:
         if chosentheme == 'Duck':
             text_Themeduck.display()
             text_chosenthemeduck.display()
-            if len(truebrickskilled) >= 0.2 * 21 * 11:
+            if len(truebrickskilled) >= 0.8 * 21 * 11:
                 gamestate = 'game finished'
         elif chosentheme == 'Meadow':
             text_Thememeadow.display()
             text_chosenthememeadow.display()
-            if len(truebrickskilled) >= 0.2 * 80:
+            if len(truebrickskilled) >= 0.8 * 80:
                 gamestate = 'game finished'
         elif chosentheme == 'Portal':
             text_Themeportal.display()
             text_chosenthemeportal.display()
-            if len(truebrickskilled) >= 0.2 * 21 * 12:
+            if len(truebrickskilled) >= 0.8 * 21 * 12:
                 gamestate = 'game finished'
         elif chosentheme == 'Halloween':
             text_Themehalloween.display()
             text_chosenthemehalloween.display()
-            if len(truebrickskilled) >= 0.2 * 21 * 11:
+            if len(truebrickskilled) >= 0.8 * 21 * 11:
                 gamestate = 'game finished'
 
         Coinicon.display()
