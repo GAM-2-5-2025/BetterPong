@@ -1,8 +1,8 @@
-# Better Pong! - 2D Igra
+# Better pong! - 2D Igra
 
 ## Opis
 
-**TikTok Pong Game** je 2D igra u kojoj igrač upravlja platformom i odbija lopticu kako bi razbio sve blokove na ekranu. Igrač pomiče platformu gore, dolje, lijevo i desno pomoću tipkovnice. Platforma se može pomicati samo unutar označenih granica. Loptica se odbija od platforme, zidova i blokova. Blok se razbije kada ga loptica dotakne. Ako igrač ne uspije platformom odbiti lopticu, gubi jedan život. Kada izgubi sve živote, izgubio je. Igrač može izabrati između više tema (dizajn loptice, platforme i pozadine) i težina (broj života). Razbijanjem blokova, igrač osvaja novčiće. Može iskoristiti 150 novčića za sposobnost da loptica samo prođe kroz blokove, bez da se od njih odbija.
+**Better pong!** je 2D igra u kojoj igrač upravlja platformom i odbija lopticu kako bi razbio sve blokove na ekranu. Igrač pomiče platformu gore, dolje, lijevo i desno pomoću tipkovnice. Platforma se može pomicati samo unutar označenih granica. Loptica se odbija od platforme, zidova i blokova. Blok se razbije kada ga loptica dotakne. Ako igrač ne uspije platformom odbiti lopticu, gubi jedan život. Kada izgubi sve živote, izgubio je. Igrač može izabrati između više tema (dizajn loptice, platforme i pozadine) i težina (broj života). Razbijanjem blokova, igrač osvaja novčiće. Može iskoristiti 150 novčića za sposobnost da loptica samo prođe kroz blokove, bez da se od njih odbija.
 
 
 ## Cilj igre
